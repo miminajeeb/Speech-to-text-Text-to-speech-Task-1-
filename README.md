@@ -14,6 +14,6 @@
 First, I executed transcribe.py file using the terminal and recorded 'I want to evaluate' phrase.
 Second, the phrase is saved in demofile.txt inside the same project package.
 Third, I executed TTS.py file so it read 'I want to evaluate' phrase from the demofile.txt and convert it to audio.
-Fouth, the audio is saved in speech.mp3 file inside the same project package.
+Fourth, the audio is saved in speech.mp3 file inside the same project package.
 
 _________________________________________________Edited by Marya AL-Zoreky________________________________________________
